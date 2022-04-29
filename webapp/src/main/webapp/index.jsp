@@ -42,5 +42,5 @@
 
    <h2> This is validating container deployment </h2>
 
-   <h2> This is ansible playbook deployment </h2>
+   <h2> This is ansible playbook new deployment </h2>
 </form>
